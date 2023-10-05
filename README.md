@@ -1,3 +1,4 @@
+![Capture](https://github.com/mariyajoji/mariyajoji/assets/146843830/a371c9e1-193d-4742-bf5d-f06ba4b40b0a)
 
 - 👋 Hi, I’m @mariyajoji
 - 👀 I’m am a student.
