@@ -1,4 +1,4 @@
-![Capture_edited](https://github.com/mariyajoji/mariyajoji/assets/146843830/b43357ef-446e-4906-8297-6874ea43fbe4)
+
 - 👋 Hi, I’m @mariyajoji
 - 👀 I’m am a student.
 - 🌱 I’m currently learning computer programming. 
