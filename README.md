@@ -14,7 +14,7 @@
 [Animation]
 >Excused
 
-[Interactive Card]](https://studio.code.org/projects/gamelab/3-Zz-5IipWn8F3g0QEs1UWCXgaqDxf1xXwwYo846HYQ/)
+[Interactive Card](https://studio.code.org/projects/gamelab/3-Zz-5IipWn8F3g0QEs1UWCXgaqDxf1xXwwYo846HYQ/)
 >
 
 [Side Scroller]
