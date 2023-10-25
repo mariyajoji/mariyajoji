@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate with other students.
 - 📫 How to reach me ...jojim26@wpsma.org
 
-###Code.org GameLab
+### Code.org GameLab 
 
 [Robot-Face](https://mariyajoji.github.io/Robot-Face/)
 >In this project, I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
