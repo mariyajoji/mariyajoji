@@ -17,8 +17,9 @@
 [Interactive Card](https://studio.code.org/projects/gamelab/3-Zz-5IipWn8F3g0QEs1UWCXgaqDxf1xXwwYo846HYQ/)
 >In this project, my partner and I created an interactive card for someone who is going to run a marathon! We used conditionals, sprite properties, and keyboard interaction to make the card interesting! 🏃‍♂️
 
-[Side Scroller]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/AX_RYeTWfZvK_srDEFhY6UFnO8Ha5jvWae1XYMq4elE)
+>In this project, my partner and I created a fun unicorn game using code.org. We used conditional, sprite properties, and keyboard interactions to create this fun and cute game! 💟
+
 
 [Flyer Game]
 >
