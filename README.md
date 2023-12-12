@@ -21,8 +21,8 @@
 >In this project, my partner and I created a fun unicorn game using code.org. We used conditional, sprite properties, and keyboard interactions to create this fun and cute game! 💟
 
 
-[Flyer Game]
->
+[Flyer Game](https://studio.code.org/projects/gamelab/xgF-kIbRko6TKXyLD9ihVOXpOLjZZyhZbZeaoIpD3Po/view)
+>In this project, my partner and I created a cool fast-paced space game using code.org. We used conditionals, sprite properties, and keyboard interactions to create this fast-paced and interesting game! 👾
 
 [Project - Design a Game]
 >
