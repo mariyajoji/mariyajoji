@@ -28,3 +28,6 @@
 
 [HelloItsMe! Project](https://gallery.appinventor.mit.edu/?galleryid=3b09ea79-7666-4ac3-8afa-98dc76ba947d)
 >In this project, I created a fun animal noise game using AIMIT! It makes the corresponding animal noise when pressing the animal buttons! 🦁
+
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=08e818f5-ff87-45dd-9611-a658fdd64c62)
+>In this project, I created a fun piano game using AIMIT! It makes the corresponding piano note when pressing the keys! 🎵
