@@ -26,4 +26,5 @@
 [Final Game Project](https://studio.code.org/projects/gamelab/A1GAK88LKrrDPe_yhuWdHRwh8dTq9GCN7JIc04vQfhI)
 >In this project, I created a fun Christmas themed game using code.org. I used conditionals, functions, sprite properties, and keyboard interactions to create this jolly game! 🦌
 
->
+[HelloItsMe! Project](https://gallery.appinventor.mit.edu/?galleryid=3b09ea79-7666-4ac3-8afa-98dc76ba947d)
+>In this project, I created a fun animal noise game using AIMIT! It makes the corresponding animal noise when pressing the animal buttons! 🦁
