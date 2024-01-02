@@ -32,5 +32,8 @@
 [My Piano](https://gallery.appinventor.mit.edu/?galleryid=08e818f5-ff87-45dd-9611-a658fdd64c62)
 >In this project, I created a fun piano game using AIMIT! It makes the corresponding piano note when pressing the keys! 🎵
 
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=4f4e2f34-cfa0-479d-afde-97376dc01d0a)
+>In this project, I created a fun music player! By clicking the different christmas icons, different christas classics will play! There is also a recorder included!🎄
+
 [Find the Gold!](https://gallery.appinventor.mit.edu/?galleryid=1ec05cef-f3d1-4b25-b7d8-7dc8ee8cb318)
 >In this project, my partner, Matthew, and I created a fun capture the gold maze game! You have to navigate the ball to the pot of golf! 🏆
