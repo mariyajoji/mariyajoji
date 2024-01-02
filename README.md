@@ -31,3 +31,6 @@
 
 [My Piano](https://gallery.appinventor.mit.edu/?galleryid=08e818f5-ff87-45dd-9611-a658fdd64c62)
 >In this project, I created a fun piano game using AIMIT! It makes the corresponding piano note when pressing the keys! 🎵
+
+[Find the Gold!](https://gallery.appinventor.mit.edu/?galleryid=1ec05cef-f3d1-4b25-b7d8-7dc8ee8cb318)
+>In this project, my partner, Matthew, and I created a fun capture the gold maze game! You have to navigate the ball to the pot of golf! 🏆
