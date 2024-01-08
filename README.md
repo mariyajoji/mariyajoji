@@ -36,4 +36,7 @@
 >In this project, I created a fun music player! By clicking the different christmas icons, different christas classics will play! There is also a recorder included!🎄
 
 [Find the Gold!](https://gallery.appinventor.mit.edu/?galleryid=1ec05cef-f3d1-4b25-b7d8-7dc8ee8cb318)
->In this project, my partner, Matthew, and I created a fun capture the gold maze game! You have to navigate the ball to the pot of golf! 🏆
+>In this project, my partner, Matthew and I, created a fun capture the gold maze game! You have to navigate the ball to the pot of golf! 🏆
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=7b66eb83-eda4-4202-b272-73c009f15817)
+>In this project, my partner, Hemant and I, created a fun food chasing game! You have to get the food and avoid the red ball! 🍌🍅🥑🥦
