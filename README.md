@@ -23,6 +23,9 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/xgF-kIbRko6TKXyLD9ihVOXpOLjZZyhZbZeaoIpD3Po/view)
 >In this project, my partner and I created a cool fast-paced space game using code.org. We used conditionals, sprite properties, and keyboard interactions to create this fast-paced and interesting game! 👾
 
+[Platform Game](https://studio.code.org/projects/gamelab/qWjKkwxvz5fPvt1G-k95DCf-L9nfRGNaERd97Ov_cOc/)
+>In this project, my partner and I created a fun platform jumping game involving a unicorn using code.org. We used conditionals, sprite properties, and keyboard interactions to create this cute game! 🦄
+
 [Final Game Project](https://studio.code.org/projects/gamelab/A1GAK88LKrrDPe_yhuWdHRwh8dTq9GCN7JIc04vQfhI)
 >In this project, I created a fun Christmas themed game using code.org. I used conditionals, functions, sprite properties, and keyboard interactions to create this jolly game! 🦌
 
