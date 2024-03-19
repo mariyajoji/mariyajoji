@@ -26,6 +26,8 @@
 [Final Game Project](https://studio.code.org/projects/gamelab/A1GAK88LKrrDPe_yhuWdHRwh8dTq9GCN7JIc04vQfhI)
 >In this project, I created a fun Christmas themed game using code.org. I used conditionals, functions, sprite properties, and keyboard interactions to create this jolly game! 🦌
 
+### App Inventor
+
 [HelloItsMe! Project](https://gallery.appinventor.mit.edu/?galleryid=3b09ea79-7666-4ac3-8afa-98dc76ba947d)
 >In this project, I created a fun animal noise game using AIMIT! It makes the corresponding animal noise when pressing the animal buttons! 🦁
 
@@ -40,3 +42,12 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=7b66eb83-eda4-4202-b272-73c009f15817)
 >In this project, my partner, Hemant and I, created a fun food chasing game! You have to get the food and avoid the red ball! 🍌🍅🥑🥦
+
+### CMU Python
+
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/papayaWhipPanda4742)
+>In this creative task, I created a picture of a sunflower using different shapes, sizes, and colors. 🌻
+
+[Unit 2 Collaborative Task](https://academy.cs.cmu.edu/sharing/moccasinOctopus6180)
+>In this collaborative, my partner and I created a unicorn whose horn glows and stars appear when mouse is pressed! We used different shapes and functions to create this animation! 🦄
+
